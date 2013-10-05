@@ -11,7 +11,7 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-
+    //コメントを追加しただけでソースコードの変更はなし
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
